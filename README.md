@@ -1,6 +1,6 @@
 # description
 
-A simple carousel where images are dynamically fetch via an api.
+A simple carousel where images are dynamically fetched via an api.
 
 ## The stack
 1-React
