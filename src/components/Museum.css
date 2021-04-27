@@ -1,0 +1,32 @@
+.container-fluid {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-fluid {
+  width: 98em;
+  height: 30em;
+  margin-top: 15px;
+  margin-bottom: 35px;
+  object-fit: contain;
+}
+.carousel-caption {
+  position: absolute;
+  left: 32%;
+  padding: 1em;
+  margin: 9em 0;
+  bottom: -15%;
+  background-color: rgb(10, 177, 10);
+  color: #fff;
+  width: 35em;
+}
+.carousel-control-next-icon {
+  height: 90em;
+  width: 100%;
+}
+.carousel-control-prev-icon {
+  height: 90em;
+  width: 100%;
+}
